@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "邀请中心",
+  "usingComponents": {
+    "drawer": "/components/drawer/drawer"
+  }
+}

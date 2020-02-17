@@ -1,0 +1,122 @@
+.cancel.data-v-3ce1b4d6 {
+  position: absolute;
+  color: #3374FF;
+  right: 20rpx;
+  top: 35rpx;
+}
+.cancel image.data-v-3ce1b4d6 {
+  width: 50rpx;
+  height: 50rpx;
+}
+.user.data-v-3ce1b4d6 {
+  margin: 40rpx;
+  font-size: 30rpx;
+  font-weight: 600;
+}
+.user image.data-v-3ce1b4d6 {
+  border-radius: 50%;
+  width: 50rpx;
+  margin-right: 30rpx;
+  height: 50rpx;
+  vertical-align: middle;
+}
+.itemlist.data-v-3ce1b4d6 {
+  margin: 20rpx;
+}
+.itemlist .item.data-v-3ce1b4d6 {
+  margin: 20rpx;
+}
+.itemlist .item image.data-v-3ce1b4d6 {
+  width: 50rpx;
+  height: 50rpx;
+  margin-right: 30rpx;
+  vertical-align: middle;
+}
+.itemlist .item text.data-v-3ce1b4d6 {
+  color: #ff6700;
+  font-weight: 600;
+}
+.contianer.data-v-3ce1b4d6 {
+  width: 90%;
+  margin: 20rpx auto;
+}
+.contianer .header.data-v-3ce1b4d6 {
+  margin: 20rpx 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.contianer .header image.data-v-3ce1b4d6 {
+  width: 70rpx;
+  height: 70rpx;
+  vertical-align: middle;
+  margin-right: 20rpx;
+}
+.contianer .header > view.data-v-3ce1b4d6 {
+  line-height: 70rpx;
+  font-size: 30rpx;
+  font-weight: 600;
+}
+.contianer .count.data-v-3ce1b4d6 {
+  position: relative;
+  height: 300rpx;
+  margin-bottom: 20rpx;
+}
+.contianer .count > image.data-v-3ce1b4d6 {
+  width: 100%;
+  height: 300rpx;
+  position: absolute;
+  z-index: -999;
+}
+.contianer .count .content.data-v-3ce1b4d6 {
+  padding-top: 40rpx;
+  color: #fff;
+  padding-left: 20rpx;
+}
+.contianer .count .content .count-top.data-v-3ce1b4d6 {
+  font-size: 24rpx;
+}
+.contianer .count .content .allcount.data-v-3ce1b4d6 {
+  font-size: 70rpx;
+  font-weight: 600;
+  margin: 20rpx 0 20rpx 20rpx;
+}
+.contianer .count .content .kcount.data-v-3ce1b4d6 {
+  font-size: 26rpx;
+}
+.contianer .list .title.data-v-3ce1b4d6 {
+  background: #f7f7f7;
+  color: #666;
+  font-size: 24rpx;
+}
+.contianer .list .tip.data-v-3ce1b4d6 {
+  height: 100vh;
+}
+.contianer .list .tip > view.data-v-3ce1b4d6 {
+  width: 80%;
+  margin: 50% auto;
+  color: #ccc;
+  font-size: 28rpx;
+  text-align: center;
+}
+.contianer .list .box.data-v-3ce1b4d6 {
+  height: 100rpx;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 0 30rpx;
+  margin: 20rpx 0;
+}
+.contianer .list .box .price text.data-v-3ce1b4d6 {
+  color: #ff6700;
+  font-size: 36rpx;
+  font-weight: 600;
+}
+

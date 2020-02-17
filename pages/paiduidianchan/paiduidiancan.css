@@ -1,0 +1,291 @@
+.test{
+	width: 100%;
+	height: 1472rpx;
+}
+/* 整个侧边栏 */
+.flex{
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	margin-top: 100rpx;
+}
+.header-banner{
+	margin-top: 30rpx;
+	width: 100%;
+	height: 240rpx;
+	margin: 0 auto;
+}
+.header-banner-img{
+	position: absolute;
+	height: 240rpx;
+	top: 80rpx;
+	width: 100%;
+}
+.header-banner-2{
+	position: absolute;
+	height: 150rpx;
+	width: 400rpx;
+	left: 200rpx;
+	top: 120rpx;
+	background: #000000;
+	opacity:0.6;
+}
+.header-banner-2-text{
+	z-index: 1000;
+	font-size: 40rpx;
+	font-weight: blod;
+	color: #FFFFFF;
+	position: absolute;
+	left: 120rpx;
+	top: 50rpx;
+}
+
+.left-a{
+	width: 250rpx;
+	background-color: #FFFFFF;
+}
+.ddd{
+	background: #F7F8F9;
+}
+/* 选中 */
+.true {
+	background-color: #FFFFFF;
+	font-weight: bold;
+}
+/* 未选中 */
+.false{
+	
+}
+.padding-tb-sm{
+	letter-spacing: 1rpx;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100rpx;
+	font-size: 30rpx;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	white-space: nowrap;
+	padding: 20upx;
+}
+.add-img{
+	height: 50rpx;
+	width: 50rpx;
+}
+.right-a{
+	margin-top: 30rpx;
+	margin-left: 30rpx;
+	width: 100%;
+}
+.right-box{
+	margin-bottom: 100rpx;
+}
+.right-a-item{
+	display: flex;
+	flex-direction: row;
+	margin-bottom: 80rpx;
+}
+.shop-img{
+	width: 300rpx;
+	height: 180rpx;
+	border-radius: 10rpx;
+}
+.hot-img{
+	width: 250rpx;
+	height: 60rpx;
+}
+.right-a-box{
+	display: flex;
+	flex-direction: column;
+	margin-left: 30rpx;
+}
+.shop-name-text{
+	font-size: 40rpx;
+	font-weight: 600;
+}
+.shop-name-tuijian{
+	margin-top: 15rpx;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+.shop-name-tuijian-1{
+	height: 40rpx;
+	width: 60rpx;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 5rpx;
+	font-size: 25rpx;
+	background-color: #FFE5A3;
+}
+.shop-name-tuijian-2{
+	margin-left: 5rpx;
+	font-size: 25rpx;
+}
+.shop-yueshou{
+	display: flex;
+	flex-direction: column;
+	width: 100%;;
+}
+.shop-yueshou-1{
+	color: #A4A4A4;
+	font-size: 25rpx;
+	margin-top: 15rpx;
+}
+.shop-yueshou-2{
+	height: 40rpx;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+}
+.shop-yueshou-2-price{
+	color: #FF5E5E;
+}
+.shop-yueshou-2-price-1{
+	font-size: 25rpx;
+}
+.shop-yueshou-2-price-2{
+	margin-left: 5rpx;
+	font-size: 30rpx;
+	font-weight: bold;
+}
+.bbb{
+	position: relative;
+}
+.hhh{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+.aaa{
+	position: absolute;
+	right: 20rpx;
+}
+.aaa-1{
+	
+}
+.item {
+  width:50px;
+  height: 50px;
+  border-radius: 100%;
+}
+/* 购物车动画 */
+.dasdasd{
+	margin-top: 100rpx;
+}
+.but {
+	margin: 10px;
+	height: 60px;
+	width: 80px;
+	display: flex;
+}
+.ball {
+	height: 20px;
+	width: 20px;
+	background: #5EA345;
+	border-radius: 50%;
+	position: fixed;
+}
+/* 从右到左 */
+.delRightShoppingCardAnimations {
+	animation: delRightShoppingCardAnimation .5s;
+}
+@keyframes delRightShoppingCardAnimation {
+	from {
+		transform: translateX(100px) rotate(900deg);
+		animation-timing-function: linear;
+	}
+	to {
+	    transform: translateX(0px) rotate(0);
+		
+	}
+}
+/* 从左到右 */
+.delLeftShoppingCardAnimations {
+	animation: delLeftShoppingCardAnimation .5s;
+}
+@keyframes delLeftShoppingCardAnimation {
+	from {
+		transform: translateX(0px) rotate(0);
+	}
+	to {
+	    transform: translateX(100px) rotate(900deg);
+	    animation-timing-function: linear;
+	}
+}
+.dibu-bottom{
+	position: relative;
+	left: 40rpx;
+	height: 90rpx;
+	width: 90%;
+	border-radius: 40rpx;
+	background: #3D7BFF;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+.dibu-bottom-1-left{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	color: #FFFFFF;
+	margin-left: 60rpx;
+}
+.dibu-bottom-z{
+	margin-top: 23rpx;
+	font-size: 27rpx;
+}
+.dibu-bottom-p{
+	margin-top: 23rpx;
+	margin-left: 20rpx;
+	font-size: 37rpx;
+}
+.dibu-bottom-p-2{
+	letter-spacing: 1rpx;
+	margin-left: 10rpx;
+}
+.dibu-bottom-2{
+	margin-right: 80rpx;
+	color: #FFFFFF;
+	font-size: 27rpx;
+}
+.ball-red{
+	left: 10rpx;
+	top: -20rpx;
+	color: #FFFFFF;
+	font-size: 25rpx;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+	width: 50rpx;
+	height: 50rpx;
+	border-radius: 50%;
+	background-color: #FF5B5B;
+}
+.h-search{
+	height: 100rpx;
+	margin-top: 10prx;
+	width: 95%;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	height: 70rpx;
+	color: #C0C2CD;
+	background-color: #F0F2F5;
+	border-radius: 10px;
+	margin-left: 20rpx;
+}
+.h-search-img{
+	margin-left: 30rpx;
+	width: 30rpx;
+	height: 35rpx;
+}
+.h-address-text{
+	letter-spacing: 1px;
+	margin-left: 10rpx;
+	font-size: 30rpx;
+}

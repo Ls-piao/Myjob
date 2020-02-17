@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "tab-control": "/components/tabControl-tag/tabControl-tag",
+    "sl-filter": "/components/sl-filter/sl-filter"
+  }
+}

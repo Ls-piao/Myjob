@@ -1,0 +1,552 @@
+/* 商品详情页的轮播图组件相关样式 */
+.content {
+	padding-bottom: 100rpx;
+	width: 95%;
+	margin: 0 auto;
+}
+
+.header {
+	padding: 0 22rpx 30rpx;
+	border-bottom: 16rpx solid rgba(247, 247, 247, 1);
+}
+
+.swiper-area {
+	position: relative;
+}
+
+.swiper {
+	height: 430rpx;
+}
+
+.swiper-item {
+	height: 100%;
+	border-radius: 20rpx;
+	background-size: cover;
+}
+
+.dot-area {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	width: 79rpx;
+	height: 40rpx;
+	line-height: 40rpx;
+	background: #F1F1F1;
+	border-radius: 10rpx;
+	opacity: 0.5;
+	position: absolute;
+	bottom: 20rpx;
+	right: 20rpx;
+	font-size: 20rpx;
+	font-weight: bold;
+	color: #000000;
+	letter-spacing: 1rpx;
+}
+
+.title {
+	margin-top: 15rpx;
+	width: 706rpx;
+	font-size: 30rpx;
+	font-weight: 500;
+	color: rgba(51, 51, 51, 1);
+	line-height: 42rpx;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+/* 商品介绍 */
+.shop-card-title {
+	margin-left: 10rpx;
+	display: flex;
+	flex-direction: column;
+	letter-spacing: 1rpx;
+}
+
+.shop-card-title-name {
+	font-size: 35rpx;
+	margin-top: 20rpx;
+	font-weight: bold;
+}
+
+.shop-card-title-car {
+	margin-top: 10rpx;
+	font-size: 25rpx;
+	color: #999999;
+}
+
+.shop-card-title-jieshao {
+	margin-top: 10rpx;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	font-size: 25rpx;
+	color: #999999;
+}
+
+.shop-card-title-jieshao-img {
+	height: 30rpx;
+	width: 30rpx;
+}
+
+.shop-card-title-price {
+	color: gold;
+	margin-left: 8rpx;
+	margin-right: 8rpx;
+}
+
+.shop-card-title-time {
+	margin-left: 8rpx;
+	margin-right: 8rpx;
+}
+
+.shop-card-title-qm {
+	margin-left: 8rpx;
+}
+
+.shop-card-title-book {
+	margin-top: 10rpx;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.shop-card-title-book-tag {
+	margin-top: -10rpx;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	font-size: 25rpx;
+	margin-left: 10rpx;
+}
+
+.shop-card-title-book-tag-y {
+	padding-top: 5rpx;
+	padding-bottom: 5rpx;
+	padding-left: 8rpx;
+	padding-right: 8rpx;
+	background: #B6CDFF;
+	color: #007AFF;
+	border-radius: 5rpx;
+}
+
+.shop-card-title-book-tag-m {
+	padding-top: 5rpx;
+	padding-bottom: 5rpx;
+	padding-left: 8rpx;
+	padding-right: 8rpx;
+	color: #F0AD4E;
+	background: #FFEBCD;
+	margin: 20rpx;
+	border-radius: 5rpx;
+}
+
+
+.tip {
+	margin-top: 10upx
+}
+
+.tip-title {
+	width: 50upx !important;
+}
+
+/* 111 */
+.tuijianbox {
+	display: inline-block;
+	flex-direction: column;
+	border-radius: 10rpx;
+	margin: 30upx;
+	box-shadow: 10upx 10upx 10upx rgba(0,0,0,0.3);
+}
+
+.tuijianboximg {
+	width: 280upx;
+	height: 280upx;
+}
+
+.tuijianboxtext {
+	overflow: hidden;
+	text-align: center;
+	margin: 10upx 0;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	width: 280upx;
+	font-size: 28upx;
+	font-weight: 500;
+	color: #999;
+}
+
+/* 1111 */
+
+.header-author {
+	margin-top: 40rpx;
+	margin-left: 20rpx;
+	display: flex;
+	flex-direction: column;
+}
+
+.header-author-0 {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	font-size: 30rpx;
+	font-weight: 400;
+}
+
+.tuijian {
+	width: 100%;
+	height: 100%;
+	margin-top: 20upx;
+}
+
+.h-title {
+	margin-left: 15rpx;
+	width: 120upx;
+	marign-right: 10rpx;
+	text-align: center;
+}
+
+.tuijianmuen {
+	width: 100%;
+	background: #eee;
+	font-size: 34upx;
+	text-align: center;
+}
+
+.scroll-view_H {
+	white-space: nowrap;
+	width: 100%;
+	margin-top: 10rpx;
+}
+
+.scroll-view-item_H {
+	margin-right: -290rpx;
+	display: inline-block;
+	width: 100%;
+	height: 550rpx;
+}
+
+.h-time {
+	margin-left: 20rpx;
+	flex: 1;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	font-weight: 400;
+}
+
+.scroll-view_H {}
+
+.h-img {
+	height: 30rpx;
+	width: 35rpx;
+}
+
+.header-author-1 {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	font-size: 30rpx;
+	font-weight: 300;
+	letter-spacing: 1rpx;
+}
+
+.header-author-1-o {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	margin-left: 10rpx;
+	justify-content: space-between;
+}
+
+.h-pone {
+	margin-top: 30rpx;
+	margin-right: 50rpx;
+	height: 50rpx;
+	width: 50rpx;
+}
+
+.h-img-1 {
+	height: 35rpx;
+	width: 35rpx;
+}
+
+.header-author-juli {
+	margin-left: 30rpx;
+	font-size: 25rpx;
+	color: #808080;
+}
+
+.paidui {
+	display: flex;
+	margin-left: 20rpx;
+	flex-direction: column;
+}
+
+.paidui-title {
+	margin-top: 20rpx;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.paidui-title-1 {
+
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+	font-size: 33rpx;
+}
+
+.paidui-title-txt {
+	margin-left: 10rpx;
+}
+
+.paidui-title-img {
+	height: 40rpx;
+	width: 40rpx;
+}
+
+.paidui-title-1-txt {
+	font-size: 25rpx;
+	color: #808080;
+}
+
+.paidui-tiem {
+	border: #DD524D solid 1px;
+	border-radius: 10rpx;
+	margin-top: 45rpx;
+	height: 120rpx;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	font-size: 35rpx;
+	justify-content: space-between;
+}
+
+.paidui-tiem-m {
+	margin-left: 40rpx;
+}
+
+.paidui-tiem-p {
+	color: #DD524D;
+}
+
+.paidui-tiem-f {
+	margin-right: 30rpx;
+}
+
+.paidui-dizhi {
+	margin-top: 40rpx;
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.paidui-dizhi-b {
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+}
+
+.paidui-dizhi-img {
+	height: 35rpx;
+	width: 30rpx;
+}
+
+.paidui-dizhi-tt {
+	margin-left: 20rpx;
+	font-size: 35rpx;
+	color: #555555;
+}
+
+.paidui-dizhi-quhao {
+	height: 75rpx;
+	width: 200rpx;
+	margin-right: 20rpx;
+	background: #DD524D;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 25rpx;
+	color: #F1F1F1;
+	border-radius: 5rpx;
+	margin-left: auto;
+}
+
+.aa {
+	opacity: 0.5;
+}
+
+.paidui-ttt {
+	margin-top: 50rpx;
+	font-size: 25rpx;
+	color: #ADADAD;
+}
+
+.yuyue {
+	margin-top: 40rpx;
+}
+
+.paidui-tiem-1 {
+	display: flex;
+	justify-content: center;
+	border: #007AFF 1px solid;
+}
+
+.yuyue-list {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	margin-top: 30rpx;
+}
+
+.yuyue-text {
+	font-size: 27rpx;
+	display: flex;
+	flex-direction: column;
+}
+
+.yuyue-text-t {
+	color: #F0AD4E;
+	margin-bottom: 5rpx;
+}
+
+.paidui-dizhi-quhao-1 {
+	background-color: #007AFF;
+}
+
+/* 未联网时的样式 */
+.notnet-A {
+	height: 200rpx;
+	font-size: 35rpx;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	letter-spacing: 1rpx;
+}
+
+.notnet-B {
+	display: flex;
+	flex-direction: row;
+	font-size: 25rpx;
+	background: #ECECEC;
+	align-items: center;
+	height: 80rpx;
+	justify-content: center;
+}
+
+.notnet-B-c {
+	color: #007AFF;
+	margin-left: 10rpx;
+}
+
+.setting {
+	margin-top: 50rpx;
+	padding-top: 50rpx;
+	border-top: #ECECEC 1px solid;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.setting-1 {
+	color: #C0C2CD;
+	font-size: 25rpx;
+	margin-left: 20rpx;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.paidui-dizhi-quhao-1-1 {
+	margin-right: 10rpx;
+	height: 40rpx;
+	width: 40rpx;
+}
+
+.paidui-dizhi-quhao-2 {
+	height: 35rpx;
+	width: 35rpx;
+	margin-right: 10rpx;
+}
+
+.tiqianyyue {
+	margin-top: 50rpx;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.tiqianyyue-a {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.tiqianyyue-1 {
+	margin-top: 10rpx;
+	margin-bottom: 30rpx;
+	width: 80rpx;
+	height: 130rpx;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	background: #3374FF;
+}
+
+.tiqianyyue-4 {
+	width: 30rpx;
+	height: 30rpx;
+}
+
+.tiqianyyue-3 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	color: #EEFBFF;
+	font-size: 25rpx;
+}
+
+.tiqianyyue-b {
+	display: flex;
+}
+
+.tiqianyyue-2 {
+	margin-left: 30rpx;
+	display: flex;
+	flex-direction: column;
+}
+
+.tiqianyyue-2-1 {
+	font-size: 30rpx;
+}
+
+.tiqianyyue-2-2 {
+	margin-top: 10rpx;
+	font-size: 25rpx;
+	color: #ADADAD;
+}
+
+.tiqianyyue-b {
+	margin-right: 60rpx;
+	display: flex;
+	width: 120rpx;
+	height: 60rpx;
+	font-size: 25rpx;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	border: #007AFF 1rpx solid;
+	color: #007AFF;
+	border-radius: 5rpx;
+}

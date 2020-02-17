@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "uni-de-code": "/components/wakary-input/wakary-input"
+  }
+}

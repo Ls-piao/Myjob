@@ -1,0 +1,28 @@
+
+.aa {
+	width: 90%;
+	margin: 0 auto;
+	background: #FFFFFF;
+}
+.a {
+	padding-bottom: 20rpx;
+	height: 90rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	padding-top: 20rpx;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	border-bottom: 1rpx solid #DEDEDE;
+}
+.fengei {
+	height: 25rpx;
+	width: 100%;
+	background: #F3F3F3;
+}
+

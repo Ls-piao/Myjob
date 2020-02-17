@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "排队",
+  "usingComponents": {
+    "tab-control": "/components/tabControl-tag/tabControl-tag"
+  }
+}

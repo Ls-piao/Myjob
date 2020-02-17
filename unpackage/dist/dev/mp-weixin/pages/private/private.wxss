@@ -1,0 +1,41 @@
+.contianer.data-v-2c2a6786 {
+  width: 90%;
+  margin: 100rpx auto;
+  font-size: 28rpx;
+}
+.img.data-v-2c2a6786 {
+  width: 50rpx;
+  height: 50rpx;
+  vertical-align: bottom;
+}
+.title ._span.data-v-2c2a6786 {
+  font-size: 40rpx;
+  padding: 0 20rpx;
+  color: cornflowerblue;
+}
+.header.data-v-2c2a6786 {
+  border-bottom: 1rpx solid #666;
+  text-align: center;
+  box-shadow: 0rpx 3rpx 1rpx rgba(0, 0, 0, 0.3);
+  margin: 20rpx 0;
+}
+.band.data-v-2c2a6786 {
+  font-size: 28rpx;
+  font-weight: 600;
+  margin: 10rpx 0;
+}
+.bandmini.data-v-2c2a6786 {
+  text-indent: 2em;
+  font-size: 26rpx;
+  margin: 5rpx 0;
+}
+.bandminimore.data-v-2c2a6786 {
+  text-indent: 4em;
+  font-size: 24rpx;
+  margin: 5rpx 0;
+}
+.content.data-v-2c2a6786 {
+  padding: 20rpx 30rpx 0;
+  border: 1rpx solid #eee;
+}
+

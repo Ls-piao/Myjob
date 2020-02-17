@@ -1,0 +1,48 @@
+.fxied.data-v-57bacc15 {
+  position: fixed;
+  top: 0px;
+  z-index: 2;
+}
+.tabList.data-v-57bacc15 {
+  padding-top: 24rpx;
+  padding-left: 24rpx;
+  padding-bottom: 8rpx;
+  white-space: nowrap;
+  text-align: center;
+}
+.tabList .tabItem.data-v-57bacc15 {
+  margin-right: 60rpx;
+  display: inline-block;
+  -webkit-transition: all 3000 ease 0;
+  transition: all 3000 ease 0;
+}
+.tabList .tabItem text.data-v-57bacc15 {
+  font-size: 32rpx;
+  line-height: 44rpx;
+  color: #666;
+}
+.tabList .tabItem .activeLine.data-v-57bacc15 {
+  width: 48rpx;
+  height: 8rpx;
+  border-radius: 4rpx;
+  background-color: #007AFF;
+  margin-top: 8rpx;
+  display: none;
+  margin-left: 50%;
+  -webkit-transform: translateX(-24rpx);
+          transform: translateX(-24rpx);
+}
+.tabList .tabItem.data-v-57bacc15:first-child {
+  margin-left: 22rpx;
+}
+.tabList .tabItem.data-v-57bacc15:last-child {
+  margin-right: 24rpx;
+}
+.tabList .thisOpenSelect text.data-v-57bacc15 {
+  color: #333;
+  font-weight: 600;
+}
+.tabList .thisOpenSelect .activeLine.data-v-57bacc15 {
+  display: block;
+}
+

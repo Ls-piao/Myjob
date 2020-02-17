@@ -1,0 +1,89 @@
+.container.data-v-208b6016 {
+  width: 100%;
+}
+.container > view.data-v-208b6016 {
+  width: 90%;
+  margin: 100rpx auto 0;
+}
+.container > view .hBox.data-v-208b6016 {
+  margin: 10rpx 0;
+  height: 300rpx;
+  width: 100%;
+  border-radius: 40rpx;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  color: #fff;
+  overflow: hidden;
+  font-size: 26rpx;
+}
+.container > view .hBox .top.data-v-208b6016 {
+  height: 80%;
+  background: #FF5B5B;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.container > view .hBox .top .left.data-v-208b6016 {
+  width: 50%;
+  margin-left: 40rpx;
+  padding-right: 20rpx;
+  border-right: 1px solid #ccc;
+}
+.container > view .hBox .top .left .price-top .bigPirce.data-v-208b6016 {
+  font-weight: 600;
+  font-size: 80rpx;
+}
+.container > view .hBox .top .left .price-bottom.data-v-208b6016 {
+  width: 80%;
+}
+.container > view .hBox .top .right.data-v-208b6016 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  margin-left: 40rpx;
+}
+.container > view .hBox .top .right .name.data-v-208b6016 {
+  font-size: 35rpx;
+  font-weight: 600;
+  margin: 30rpx 0;
+}
+.container > view .hBox .bottom.data-v-208b6016 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  color: #666;
+  font-size: 24rpx;
+  width: 70%;
+  margin: 0 auto;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.container > view .nocard.data-v-208b6016 {
+  width: 100%;
+  height: 100%;
+  margin: 200rpx auto;
+  color: #999;
+  font-size: 28rpx;
+  text-align: center;
+}
+.container > view .nocard image.data-v-208b6016 {
+  width: 100rpx;
+  height: 60rpx;
+}
+

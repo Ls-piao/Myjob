@@ -1,0 +1,153 @@
+page.data-v-2f1720ae{
+	background: #FFFFFF;
+}
+
+/* 公有样式 */
+.padding-left.data-v-2f1720ae{
+	padding-left: 30rpx;
+}
+.fenge.data-v-2f1720ae{
+	height: 20rpx;
+	background: #F3F3F3;
+}
+.border-1.data-v-2f1720ae{
+	border-bottom: 1rpx solid #E6E6E6;
+}
+
+/* 私有样式 */
+.goods-top.data-v-2f1720ae{
+	height: 80rpx;
+	background: #F3F3F3;
+	letter-spacing: 1rpx;
+	font-size: 25rpx;
+	color: #888888;
+}
+.goods-top-top.data-v-2f1720ae{
+	padding-top: 25rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.goods-top-2.data-v-2f1720ae{
+	padding-left: 20rpx;
+}
+.goods-title-box.data-v-2f1720ae{
+	width: 92%;
+	margin: 0 auto;
+	height: 100rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.goods-title-title.data-v-2f1720ae{
+	color: #666666;
+}
+.goods-title-input.data-v-2f1720ae{
+	margin-left: 70rpx;
+}
+.goods-title-input-1.data-v-2f1720ae{
+	margin-left: 95rpx;
+}
+.goods-title-input-2.data-v-2f1720ae{
+	margin-left: 120rpx;
+}
+.input-text.data-v-2f1720ae{
+	color: #000000;
+	font-size: 30rpx;
+}
+.goods-img.data-v-2f1720ae{
+	position: relative;
+	height: 280rpx;
+}
+.goods-img-box.data-v-2f1720ae{
+	margin-top: 10rpx;
+	height: 180rpx;
+	width: 100%;
+	margin-bottom: 30rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.goods-img-box-img.data-v-2f1720ae{
+	margin-top: 20rpx;
+	height: 100rpx;
+	width: 100rpx;
+	margin-right: 15rpx;
+}
+.goods-img-box-text.data-v-2f1720ae{
+	position: absolute;
+	color: #C6C3C6;
+	font-size: 25rpx;
+	bottom: 20rpx;
+	right: 30rpx;
+}
+.submit.data-v-2f1720ae{
+	width: 100%;
+	height: 80rpx;
+	background-color: #3D7BFF;
+	color: #FFFFFF;
+	font-size: 30rpx;
+	font-weight: 510;
+	letter-spacing: 2rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.typelist.data-v-2f1720ae {
+  width: 92%;
+  margin: 0 auto;
+  height: 100rpx;
+  color: #666666;
+  border-bottom: 1px solid #ccc;
+}
+.typelist .typelistBox.data-v-2f1720ae {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  line-height: 100rpx;
+}
+.typelist .typelistBox .typeChose.data-v-2f1720ae {
+  width: 20%;
+  font-size: 35rpx;
+}
+.typelist .typelistBox .typelistBody.data-v-2f1720ae {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  color: #000000;
+  padding-left: 20rpx;
+}
+.typelist .typelistBox .typelistBody picker.data-v-2f1720ae {
+  padding-left: 50rpx;
+}
+

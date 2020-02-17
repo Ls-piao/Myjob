@@ -1,0 +1,25 @@
+.box-swiper{
+	margin-left: -250rpx;
+}
+.pjia-box{
+	width: 90%;
+	margin: 0 auto;
+}
+.pjia-box-item{
+	margin-top: 60rpx;
+}
+.pjia-box-content{
+	border-bottom: 1rpx solid #DBDBDB;
+}
+.pjia-box-item{
+	display: flex;
+	flex-direction: row;
+}
+.pjia-box-item-text{
+	margin-left: 30rpx;
+	display: flex;
+	flex-direction: column;
+}
+.padding-bottom{
+	padding-bottom: 5rpx;
+}

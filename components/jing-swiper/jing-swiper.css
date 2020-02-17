@@ -1,0 +1,15 @@
+.item-box-content{
+margin-top: -20rpx;
+}
+
+.item-box-content{
+	margin-top: 30rpx;
+	display: flex;
+	flex-direction: row;
+}
+.item-box{
+	height: 30rpx;
+	width: 30rpx;
+	border-radius: 100%;
+	border: 1rpx solid #999999;
+}

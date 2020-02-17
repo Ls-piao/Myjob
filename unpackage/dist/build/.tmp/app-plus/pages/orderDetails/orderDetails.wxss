@@ -1,0 +1,78 @@
+.stats-text.data-v-f99ae3ce {
+  font-size: 30rpx;
+  border-top: 1px solid #ececec;
+  border-bottom: 1px solid #ececec;
+}
+.icon.data-v-f99ae3ce {
+  width: 50rpx;
+  height: 50rpx;
+  vertical-align: middle;
+  padding: 30rpx;
+}
+.state-content.data-v-f99ae3ce {
+  padding: 30rpx;
+}
+.state-state.data-v-f99ae3ce {
+  margin: 30rpx 0;
+}
+.state-state .wait.data-v-f99ae3ce {
+  color: #DD524D;
+}
+.state-state .right.data-v-f99ae3ce {
+  color: #00C777;
+}
+.order.data-v-f99ae3ce {
+  border-top: 30rpx solid #ececec;
+  border-bottom: 30rpx solid #ececec;
+}
+.shopName.data-v-f99ae3ce {
+  font-size: 40rpx;
+  padding: 30rpx;
+}
+.shopName image.data-v-f99ae3ce {
+  width: 10rpx;
+  height: 20rpx;
+  float: right;
+  margin-top: 20rpx;
+}
+.orderDetails.data-v-f99ae3ce {
+  padding: 30rpx;
+  color: #8c8c8c;
+  font-size: 30rpx;
+}
+.orderDetails > view.data-v-f99ae3ce {
+  margin: 20rpx 0;
+}
+.orderDetails .orderMenu .menuGoods.data-v-f99ae3ce {
+  font-size: 25rpx;
+  color: #000000;
+  margin: 15rpx;
+}
+.total.data-v-f99ae3ce {
+  margin-bottom: 80rpx;
+}
+.total text.data-v-f99ae3ce {
+  font-size: 35rpx;
+  color: #DD524D;
+}
+.btn.data-v-f99ae3ce {
+  background: #DD524D;
+  width: 100%;
+  height: 80rpx;
+  font-size: 30rpx;
+  color: #fff;
+  border-radius: 15rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.btn text.data-v-f99ae3ce {
+  text-align: center;
+}
+

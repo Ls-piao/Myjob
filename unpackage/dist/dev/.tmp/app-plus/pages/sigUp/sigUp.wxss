@@ -1,0 +1,191 @@
+page{
+	margin: 0 auto;
+	width: 90%;
+}
+.face-wapper{
+	margin-top: 50rpx;
+	margin-left: 30rpx;
+}
+.face-wapper-img{
+	height: 150rpx;
+	width: 150rpx;
+}
+.face-title{
+	color: #0D2E73;
+	font-size: 45rpx;
+	font-weight: 530;
+	margin-left: 55rpx;
+}
+.login-box{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	margin-top: 80rpx;
+	width: 100%;
+}
+.info-wapper{
+	margin-left: 50rpx;
+	margin-top: 40rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	width: 100%;
+}
+.line{
+	width: 100%;
+	border-bottom: 1px solid #B6CDFF;
+	margin-top: 5rpx;
+}
+.words-lbl{
+	margin-left: 10rpx;
+}
+.words-inp{
+	width: 80%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	margin-left: 20rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.info-img{
+	height: 40rpx;
+	width: 35rpx;
+	margin-top: 10rpx;
+}
+.graywords{
+	font-size: 30rpx;
+	color: #C4C0C4;
+}
+.login-btn{
+	margin-left: 70rpx;
+	margin-top: 100rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	font-size: 28rpx;
+	color: #ffffff;
+	background-color: #3D7BFF;
+	height: 80rpx;
+	width: 100%;
+	border-radius: 5px;
+	margin-bottom: 50rpx;
+}
+.login-txt{
+	margin-left: 70rpx;
+	margin-top: 100rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	font-size: 25rpx;
+	color: #ADADAD;
+}
+.login-img{
+	margin-top: 30rpx;
+	height: 100rpx;
+	width: 100rpx;
+}
+/* 注册页面的特殊样式 */
+.pone-code{
+	margin-top: 50rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: end;
+	-webkit-justify-content: flex-end;
+	        justify-content: flex-end;
+}
+.pone-code-inp{
+	width: 40%;
+}
+.codewords{
+	font-size: 27rpx;
+	color: #C4C0C4;
+}
+.pone-code-txt{
+	margin-left: 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	width: 30%;
+	height: 60rpx;
+	font-size: 25rpx;
+	color: #3D7BFF;
+	border: 1px solid #ADADAD;
+	border-radius: 30rpx;
+}
+.login-content{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	font-size: 28rpx;
+	color: #808080;
+}
+.login-content-txt{
+	margin-top: 30rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+}
+.login{
+	margin-left: 20rpx;
+	color: #007AFF;
+}
+

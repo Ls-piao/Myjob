@@ -1,0 +1,36 @@
+.box-swiper{
+	margin-left: -250rpx;
+}
+.pjia-box{
+	width: 90%;
+	margin: 0 auto;
+}
+.pjia-box-item{
+	margin-top: 60rpx;
+}
+.pjia-box-content{
+	border-bottom: 1rpx solid #DBDBDB;
+}
+.pjia-box-item{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+}
+.pjia-box-item-text{
+	margin-left: 30rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+}
+.padding-bottom{
+	padding-bottom: 5rpx;
+}
+

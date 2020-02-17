@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "digital-rolling": "/components/digital-rolling/digital-rolling",
+    "uni-de-code": "/components/wakary-input/wakary-input"
+  }
+}

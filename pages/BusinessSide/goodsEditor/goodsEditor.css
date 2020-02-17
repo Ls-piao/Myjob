@@ -1,0 +1,95 @@
+page{
+	background: #FFFFFF;
+}
+
+/* 公有样式 */
+.padding-left{
+	padding-left: 30rpx;
+}
+.fenge{
+	height: 20rpx;
+	background: #F3F3F3;
+}
+.border-1{
+	border-bottom: 1rpx solid #E6E6E6;
+}
+/* 私有样式 */
+.goods-top{
+	height: 80rpx;
+	background: #F3F3F3;
+	letter-spacing: 1rpx;
+	font-size: 25rpx;
+	color: #888888;
+}
+.goods-top-top{
+	padding-top: 25rpx;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+.goods-top-2{
+	padding-left: 20rpx;
+}
+.goods-title-box{
+	width: 92%;
+	margin: 0 auto;
+	height: 100rpx;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+.goods-title-title{
+	color: #666666;
+}
+.goods-title-input{
+	margin-left: 70rpx;
+}
+.goods-title-input-1{
+	margin-left: 95rpx;
+}
+.goods-title-input-2{
+	margin-left: 120rpx;
+}
+.input-text{
+	color: #000000;
+	font-size: 30rpx;
+}
+.goods-img{
+	position: relative;
+	height: 280rpx;
+}
+.goods-img-box{
+	margin-top: 10rpx;
+	height: 180rpx;
+	width: 100%;
+	margin-bottom: 30rpx;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.goods-img-box-img{
+	margin-top: 20rpx;
+	height: 100rpx;
+	width: 100rpx;
+	margin-right: 15rpx;
+}
+.goods-img-box-text{
+	position: absolute;
+	color: #C6C3C6;
+	font-size: 25rpx;
+	bottom: 20rpx;
+	right: 30rpx;
+}
+.submit{
+	width: 100%;
+	height: 80rpx;
+	background-color: #3D7BFF;
+	color: #FFFFFF;
+	font-size: 30rpx;
+	font-weight: 510;
+	letter-spacing: 2rpx;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}

@@ -1,0 +1,27 @@
+.container.data-v-95e06eac {
+  width: 100vw;
+  height: 100%;
+  background: #fafafa;
+  font-size: 30rpx;
+}
+.container .box.data-v-95e06eac {
+  width: 85%;
+  background: #fff;
+  margin: 30rpx auto;
+  padding: 40rpx;
+  border-radius: 50rpx;
+}
+.container .box .header.data-v-95e06eac {
+  padding: 20rpx;
+  border-bottom: 1px solid #ccc;
+}
+.container .box .header .fail.data-v-95e06eac {
+  color: #DD524D;
+}
+.container .box .header .success.data-v-95e06eac {
+  color: #00C777;
+}
+.container .box .content.data-v-95e06eac {
+  padding: 20rpx;
+}
+

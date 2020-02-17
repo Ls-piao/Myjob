@@ -1,0 +1,154 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @import "../../../common/icon.css"; */
+.container.data-v-208b6016 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	width: 100%;
+}
+.content.data-v-208b6016{
+	width: 400rpx;
+	height: 400rpx;
+	margin: 50rpx auto;
+}
+.qrcode.data-v-208b6016{
+	width: 100%;
+	height: 100%;
+}
+.uni-title.data-v-208b6016{
+	color: #c6c3c6;
+	font-size: 26rpx;
+}
+.qrimg.data-v-208b6016 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	margin: 200rpx 0;
+}
+.qrimg-i.data-v-208b6016{
+	margin-right: 10px;
+}
+slider.data-v-208b6016 {
+	width: 90%;
+}
+input.data-v-208b6016 {
+	width: 100%;
+	margin-bottom: 20rpx;
+}
+.btns.data-v-208b6016 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	width: 100%;
+}
+button.data-v-208b6016 {
+	width: 100%;
+	margin-top: 10rpx;
+}
+

@@ -1,0 +1,105 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/count/count",
+    "pages/wallet/wallet",
+    "pages/orderDetails/orderDetails",
+    "pages/private/private",
+    "pages/private/userprivate",
+    "pages/paiduidianchan/paiduidianchan",
+    "pages/addStore/addStore",
+    "pages/tixianLog/tixianLog",
+    "pages/withdraw/withdraw",
+    "pages/qrCode/qrCode",
+    "pages/editor/editor",
+    "pages/toAgent/toAgent",
+    "pages/BusinessSide/orderDetails/orderDetails",
+    "pages/BusinessSide/hongbao/hongbao",
+    "pages/BusinessSide/userOrder/userOrder",
+    "pages/BusinessSide/addHongbao/addHongbao",
+    "pages/BusinessSide/addTable/addTable",
+    "pages/BusinessSide/userDetails/userDetails",
+    "pages/BusinessSide/paiduiorderDetails/paiduiorderDetails",
+    "pages/BusinessSide/goodsLists/goodsLists",
+    "pages/BusinessSide/addTypes/addTypes",
+    "pages/BusinessSide/manageTypes/manageTypes",
+    "pages/sigUp/sigUp",
+    "pages/search/search",
+    "pages/select/address",
+    "pages/me/me",
+    "pages/myTeam/myTeam",
+    "pages/sigIn/sigIn",
+    "pages/pay-weixin/pay-weixin",
+    "pages/decode/decode",
+    "pages/goods-details/goods-details",
+    "pages/shoplist/shoplist",
+    "pages/reserve/reserve",
+    "pages/yuding/yuding",
+    "pages/pingjia/pingjia",
+    "pages/dianchan/dianchan",
+    "pages/paidui/paidui",
+    "pages/BusinessSide/index/index",
+    "pages/BusinessSide/yudin/yudin",
+    "pages/BusinessSide/goodsEditor/goodsEditor",
+    "pages/BusinessSide/yshou/yshou",
+    "pages/BusinessSide/paidui/paidui",
+    "pages/BusinessSide/caiwu-duizhang/caiwu-duizhang",
+    "pages/BusinessSide/pj-guanli/pj-guanli",
+    "pages/BusinessSide/user-guanli/user-guanli",
+    "pages/BusinessSide/shop-stting/shop-stting",
+    "pages/BusinessSide/tixianList/tixianList",
+    "pages/checkoutCounter/checkoutCounter",
+    "pages/BusinessSide/addGoods/addGoods",
+    "pages/BusinessSide/addTime/addTime",
+    "pages/BusinessSide/addReplay/addReplay"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#f7f7f7",
+    "navigationBarTitleText": "莫等闲",
+    "onReachBottomDistance": 50
+  },
+  "tabBar": {
+    "color": "#bfbfbf",
+    "selectedColor": "#333333",
+    "borderStyle": "white",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/2020-1-icon/index.png",
+        "selectedIconPath": "static/2020-1-icon/aindex.png"
+      },
+      {
+        "pagePath": "pages/yuding/yuding",
+        "text": "预定",
+        "iconPath": "static/2020-1-icon/yuding.png",
+        "selectedIconPath": "static/2020-1-icon/ayuding.png"
+      },
+      {
+        "pagePath": "pages/reserve/reserve",
+        "text": "订单",
+        "iconPath": "static/2020-1-icon/list.png",
+        "selectedIconPath": "static/2020-1-icon/alist.png"
+      },
+      {
+        "pagePath": "pages/me/me",
+        "text": "我的",
+        "iconPath": "static/2020-1-icon/me.png",
+        "selectedIconPath": "static/2020-1-icon/ame.png"
+      }
+    ]
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": false,
+    "autoclose": true
+  },
+  "appname": "莫等闲",
+  "compilerVersion": "2.5.1",
+  "usingComponents": {
+    "drawer": "/components/drawer/drawer"
+  }
+}

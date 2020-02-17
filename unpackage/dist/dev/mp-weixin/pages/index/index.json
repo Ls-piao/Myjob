@@ -1,0 +1,8 @@
+{
+  "animationType": "fade-in",
+  "animationDuration": 300,
+  "usingComponents": {
+    "city-select": "/components/linzq-citySelect/linzq-citySelect",
+    "popup-layer": "/components/popup-layer/popup-layer"
+  }
+}

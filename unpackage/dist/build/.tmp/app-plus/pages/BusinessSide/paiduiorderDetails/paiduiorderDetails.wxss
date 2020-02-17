@@ -1,0 +1,22 @@
+.container.data-v-4a63747f {
+  margin: 20rpx;
+  box-shadow: 10rpx 10rpx 10rpx rgba(0, 0, 0, 0.2);
+}
+.container .content.data-v-4a63747f {
+  padding: 30rpx;
+}
+.container .content > view.data-v-4a63747f {
+  margin: 20rpx 0;
+  padding: 20rpx 0;
+  border-bottom: 1px solid #eee;
+  font-size: 30rpx;
+  color: #666;
+}
+.container .content > view > view.data-v-4a63747f {
+  color: #000;
+  font-size: 28rpx;
+  font-weight: 600;
+  margin: 20rpx;
+  margin-left: 20rpx;
+}
+

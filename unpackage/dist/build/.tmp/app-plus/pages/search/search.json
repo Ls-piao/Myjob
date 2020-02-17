@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "vtag": "/components/uni-tag/uni-tag"
+  }
+}

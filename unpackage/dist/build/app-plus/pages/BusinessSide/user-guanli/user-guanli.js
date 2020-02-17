@@ -1,0 +1,2 @@
+setCssToHead([],undefined,{path:"./pages/BusinessSide/user-guanli/user-guanli.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/BusinessSide/user-guanli/user-guanli.wxml') } }));

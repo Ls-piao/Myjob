@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "tab-control": "/components/tabControl-tag/tabControl-tag"
+  }
+}

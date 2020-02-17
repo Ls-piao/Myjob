@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "提现管理",
+  "usingComponents": {
+    "lbt": "/components/jing-swiper/jing-swiper"
+  }
+}

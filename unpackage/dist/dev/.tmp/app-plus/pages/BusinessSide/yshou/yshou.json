@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "添加时间",
+  "usingComponents": {
+    "mx-date-picker": "/components/mx-datepicker/mx-datepicker"
+  }
+}

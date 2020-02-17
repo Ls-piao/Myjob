@@ -1,0 +1,34 @@
+.tishi.data-v-44d7e8b3 {
+  text-align: center;
+  color: #666;
+}
+.container.data-v-44d7e8b3 {
+  padding: 20rpx;
+  font-size: 28rpx;
+  background: #fafafa;
+}
+.container > view.data-v-44d7e8b3 {
+  margin: 20rpx 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  border-radius: 20rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  background: #fff;
+}
+.container > view .left.data-v-44d7e8b3 {
+  width: 140rpx;
+  text-align: center;
+  border-right: 1px solid #eee;
+  padding: 20rpx;
+  line-height: 80rpx;
+}
+.container > view .right.data-v-44d7e8b3 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  padding: 10rpx 20rpx;
+}
+

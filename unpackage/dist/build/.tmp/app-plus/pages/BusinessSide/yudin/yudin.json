@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "预定",
+  "usingComponents": {
+    "tab-control": "/components/tabControl-tag/tabControl-tag"
+  }
+}

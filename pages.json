@@ -1,0 +1,283 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"animationType": "fade-in",
+				"animationDuration": 300
+			}
+		}, {
+			"path": "pages/count/count",
+			"style": {
+					"navigationBarTitleText": "在线支付"
+			}
+		},{
+			"path": "pages/wallet/wallet",
+			"style": {
+					"navigationBarTitleText": "邀请中心"
+			}
+		},{
+			"path": "pages/orderDetails/orderDetails",
+			"style": {
+				"navigationBarTitleText": "订单详情"
+			}
+		},{
+			"path": "pages/private/private",
+			"style": {
+				"navigationBarTitleText": "用户须知"
+			}
+		}, {
+			"path": "pages/private/userprivate",
+			"style": {
+				"navigationBarTitleText": "用户须知"
+			}
+		}, {
+			"path": "pages/paiduidianchan/paiduidianchan",
+			"style": {
+				"navigationBarTitleText": "排队点餐"
+			}
+		}, {
+			"path": "pages/addStore/addStore",
+			"style": {
+				"navigationBarTitleText": "添加商铺"
+			}
+		}, {
+			"path": "pages/tixianLog/tixianLog",
+			"style": {
+				"navigationBarTitleText": "领取补贴记录"
+			}
+		}, {
+			"path": "pages/withdraw/withdraw",
+			"style": {
+				"navigationBarTitleText": "领取补贴"
+			}
+		}, {
+			"path": "pages/qrCode/qrCode",
+			"style": {
+				"navigationBarTitleText": "我的卡包"
+			}
+		}, {
+			"path": "pages/editor/editor",
+			"style": {
+				"navigationBarTitleText": "编辑个人信息"
+			}
+		}, {
+			"path": "pages/toAgent/toAgent",
+			"style": {
+				"navigationBarTitleText": "成为市场专员"
+			}
+		}, {
+			"path": "pages/BusinessSide/orderDetails/orderDetails",
+			"style": {
+				"navigationBarTitleText": "订单详情"
+			}
+		},{
+			"path": "pages/BusinessSide/hongbao/hongbao",
+			"style": {
+				"navigationBarTitleText": "添加红包"
+			}
+		},{
+			"path": "pages/BusinessSide/userOrder/userOrder",
+			"style": {
+				"navigationBarTitleText": "商户中心"
+			}
+		},{
+			"path": "pages/BusinessSide/addHongbao/addHongbao",
+			"style": {
+				"navigationBarTitleText": "红包管理"
+			}
+		},{
+			"path": "pages/BusinessSide/addTable/addTable",
+			"style": {
+				"navigationBarTitleText": "添加桌子"
+			}
+		},{
+			"path": "pages/BusinessSide/userDetails/userDetails",
+			"style": {
+				"navigationBarTitleText": "商户奖励"
+			}
+		}, {
+			"path": "pages/BusinessSide/paiduiorderDetails/paiduiorderDetails",
+			"style": {
+				"navigationBarTitleText": "订单详情"
+			}
+		},
+		{
+			"path": "pages/BusinessSide/goodsLists/goodsLists",
+			"style": {
+				"navigationBarTitleText": "商品列表"
+			}
+		},
+		{
+			"path": "pages/BusinessSide/addTypes/addTypes",
+			"style": {
+				"navigationBarTitleText": "新建类型"
+			}
+		},
+		{
+			"path": "pages/BusinessSide/manageTypes/manageTypes",
+			"style": {
+				"navigationBarTitleText": "分类管理"
+			}
+		},
+		{
+			"path": "pages/sigUp/sigUp",
+			"style": {}
+		}, {
+			"path": "pages/search/search",
+			"style": {}
+		}, {
+			"path": "pages/select/address",
+			"style": {
+				"navigationBarTitleText": "选择地址"
+			}
+		}, {
+			"path": "pages/me/me",
+			"style": {}
+		}, {
+			"path": "pages/myTeam/myTeam",
+			"style": {
+				"navigationBarTitleText": "我的分享"
+			}
+		}, {
+			"path": "pages/sigIn/sigIn",
+			"style": {}
+		}, {
+			"path": "pages/pay-weixin/pay-weixin",
+			"style": {
+			}
+		}, {
+			"path": "pages/decode/decode",
+			"style": {}
+		}, {
+			"path": "pages/goods-details/goods-details",
+			"style": {}
+		}, {
+			"path": "pages/shoplist/shoplist",
+			"style": {}
+		}, {
+			"path": "pages/reserve/reserve",
+			"style": {}
+		}, {
+			"path": "pages/yuding/yuding",
+			"style": {}
+		}, {
+			"path": "pages/pingjia/pingjia",
+			"style": {}
+		}, {
+			"path": "pages/dianchan/dianchan",
+			"style": {}
+		}, {
+			"path": "pages/paidui/paidui"
+		}, {
+			"path": "pages/BusinessSide/index/index",
+			"style": {
+
+			}
+		}, {
+			"path": "pages/BusinessSide/yudin/yudin",
+			"style": {
+				"navigationBarTitleText": "预定"
+			}
+		}, {
+			"path": "pages/BusinessSide/goodsEditor/goodsEditor",
+			"style": {
+				"navigationBarTitleText": "商品编辑"
+			}
+		}, {
+			"path": "pages/BusinessSide/yshou/yshou",
+			"style": {
+				"navigationBarTitleText": "添加时间"
+			}
+		}, {
+			"path": "pages/BusinessSide/paidui/paidui",
+			"style": {
+				"navigationBarTitleText": "排队"
+			}
+		}, {
+			"path": "pages/BusinessSide/caiwu-duizhang/caiwu-duizhang",
+			"style": {
+				"navigationBarTitleText": "预定管理"
+			}
+		}, {
+			"path": "pages/BusinessSide/pj-guanli/pj-guanli",
+			"style": {
+				"navigationBarTitleText": "评价管理"
+			}
+		}, {
+			"path": "pages/BusinessSide/user-guanli/user-guanli",
+			"style": {
+				"navigationBarTitleText": "提现管理"
+			}
+		}, {
+			"path": "pages/BusinessSide/shop-stting/shop-stting",
+			"style": {
+				"navigationBarTitleText": "店铺设置"
+			}
+		}, {
+			"path": "pages/BusinessSide/tixianList/tixianList",
+			"style": {
+				"navigationBarTitleText": "提现列表"
+			}
+		}, {
+			"path": "pages/checkoutCounter/checkoutCounter",
+			"style": {}
+		}, {
+			"path": "pages/BusinessSide/addGoods/addGoods",
+			"style": {
+				"style": {
+					"navigationBarTitleText": "商品管理"
+				}
+			}
+		}, {
+			"path": "pages/BusinessSide/addTime/addTime",
+			"style": {}
+		}, {
+			"path": "pages/BusinessSide/addReplay/addReplay",
+			"style": {
+				"style": {
+					"navigationBarTitleText": "商家回复"
+				}
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarBackgroundColor":"#f7f7f7",
+		"navigationBarTitleText": "莫等闲",
+		"onReachBottomDistance": 50
+	},
+	"tabBar": {
+		"color": "#bfbfbf",
+		"selectedColor": "#333333",
+		"borderStyle": "white",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"text": "首页",
+				"iconPath": "static/2020-1-icon/index.png",
+				"selectedIconPath": "static/2020-1-icon/aindex.png"
+
+			},
+			{
+				"pagePath": "pages/yuding/yuding",
+				"text": "预定",
+				"iconPath": "static/2020-1-icon/yuding.png",
+				"selectedIconPath": "static/2020-1-icon/ayuding.png"
+
+			},
+			{
+				"pagePath": "pages/reserve/reserve",
+				"text": "订单",
+				"iconPath": "static/2020-1-icon/list.png",
+				"selectedIconPath": "static/2020-1-icon/alist.png"
+			},
+			{
+				"pagePath": "pages/me/me",
+				"text": "我的",
+				"iconPath": "static/2020-1-icon/me.png",
+				"selectedIconPath": "static/2020-1-icon/ame.png"
+			}
+		]
+	}
+}

@@ -1,0 +1,48 @@
+.fxied.data-v-2b35c17c {
+  position: fixed;
+  top: 0px;
+  z-index: 2;
+}
+.tabList.data-v-2b35c17c {
+  padding-top: 24rpx;
+  padding-left: 24rpx;
+  padding-bottom: 8rpx;
+  white-space: nowrap;
+  text-align: center;
+}
+.tabList .tabItem.data-v-2b35c17c {
+  margin-right: 60rpx;
+  display: inline-block;
+  -webkit-transition: all 3000 ease 0;
+  transition: all 3000 ease 0;
+}
+.tabList .tabItem text.data-v-2b35c17c {
+  font-size: 32rpx;
+  line-height: 44rpx;
+  color: #666;
+}
+.tabList .tabItem .activeLine.data-v-2b35c17c {
+  width: 48rpx;
+  height: 8rpx;
+  border-radius: 4rpx;
+  background-color: #007AFF;
+  margin-top: 8rpx;
+  display: none;
+  margin-left: 50%;
+  -webkit-transform: translateX(-24rpx);
+          transform: translateX(-24rpx);
+}
+.tabList .tabItem.data-v-2b35c17c:first-child {
+  margin-left: 22rpx;
+}
+.tabList .tabItem.data-v-2b35c17c:last-child {
+  margin-right: 24rpx;
+}
+.tabList .thisOpenSelect text.data-v-2b35c17c {
+  color: #333;
+  font-weight: 600;
+}
+.tabList .thisOpenSelect .activeLine.data-v-2b35c17c {
+  display: block;
+}
+
